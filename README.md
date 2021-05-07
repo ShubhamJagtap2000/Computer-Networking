@@ -10,6 +10,6 @@
 
 ## Topics Covered:
 
-**[1. Classification of Computer Network](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Classification-of-Computer-Network.md)**\
+**[1. Classification of Computer Network](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Classification-of-Computer-Network.md)**
 
 **[2. IP Addressing and NAT](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/IP-Addressing-And-NAT.md)**
