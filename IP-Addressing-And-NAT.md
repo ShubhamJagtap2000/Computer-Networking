@@ -20,11 +20,13 @@
 ## IP Address Versions:
 
 **1. IPv4:** 
+
 - IPv4 is the fourth version of the internet protocol. It is one of the core protocols of standards-based internetworking methods on the internet. It is 32 bits long.
 - Pattern of IPv4 is A.B.C.D where all A,B,C,D are numbers between 0 and 255.
 - As using only IPv4 all the people cannot join a network(more than 4.2 billion), so IPv6 was introduced.
 
 **1. IPv6:** 
+
 -  IPv6 is the most recent version of the Internet protocol that provides an identification and location system for computer networks. IPv6 was created to dominate over the IPv4 address exhaustion.
 -  Pattern of IPv6 is A:B:C:D:E:F:G:H where, all A,B,C,D,E,F,G,H are hexadecimal numbers.
 -  Old devices don't support IPv6, so NAT is there. So, we deal with a combination of both IPv4 and IPv6.
