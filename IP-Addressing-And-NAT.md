@@ -30,8 +30,11 @@
 -  Old devices don't support IPv6, so NAT is there. So, we deal with a combination of both IPv4 and IPv6.
 
  ### IP Address Range:
- - 192.168.0.0 to 192.168.255.255
- - 172.16.0.0 to 172.31.255.255
- - 10.0.0.0 to 10.255.255.255 
+ 
+ | Range | Area |
+ | --- | --- |
+ | 192.168.0.0 to 192.168.255.255 | Home or Office |
+ | 172.16.0.0 to 172.31.255.255 | Large MNCs, Colleges |
+ | 10.0.0.0 to 10.255.255.255 | Telecomm., Satellites | 
  
 **127.0.0.1 is called as 'localhost' or loopback address. IP address of your own machine.**
