@@ -21,7 +21,9 @@ e.g. drive.google.com(.)
 1. **Root Name Server:** DNS Server dealing with the root name is called as Root Name Server. It is added automatically. There are 13 Root Name Servers in the world.
 2. **Top Level Domain(TLD):** Stored in TLD server. There may be second level server in this domain name. e.g. drive.google.co.in.
 
-- Here, '.' at last denotes Root Name Server
-        '.' after 'co' denotes the Top Level Domain
-        '.' after 'google' denotes the Second Level Domain
+**Here,**
+
+  '.' at last denotes Root Name Server\
+  '.' after 'co' denotes the Top Level Domain\
+  '.' after 'google' denotes the Second Level Domain
     
