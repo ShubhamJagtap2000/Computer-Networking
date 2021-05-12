@@ -25,11 +25,20 @@
 - Pattern of IPv4 is A.B.C.D where all A,B,C,D are numbers between 0 and 255.
 - As using only IPv4 all the people cannot join a network(more than 4.2 billion), so IPv6 was introduced.
 
-**1. IPv6:** 
+**2. IPv6:** 
 
 -  IPv6 is the most recent version of the Internet protocol that provides an identification and location system for computer networks. IPv6 was created to dominate over the IPv4 address exhaustion.
 -  Pattern of IPv6 is A:B:C:D:E:F:G:H where, all A,B,C,D,E,F,G,H are hexadecimal numbers.
 -  Old devices don't support IPv6, so NAT is there. So, we deal with a combination of both IPv4 and IPv6.
+
+### **Public IP:**
+
+- It is the IP that identifies your device on Internet.
+- Everyone else on internet can have idea about your public IP.
+
+### **Private IP:**
+
+- The Ip that identifies your device on your own personal network. e.g. At home.
 
  ### IP Address Range:
  
