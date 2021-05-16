@@ -23,3 +23,11 @@
 |  443 | HTTPS(Hyper Text Transfer Protocol Secure) |
 |  123 | Network Time Protocol |
 |  161 | Simple Network Management Protocol |
+
+- **For Client:**
+- Port on sending device: local port(client)
+- Port on receiving device: remote port(server)
+
+- **For Server:**
+- Port on sending side: local port(server)
+- Port on receiving side: remote port(client)
