@@ -19,3 +19,5 @@
 **[4. Ports and Services](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Ports-and-Services.md)**
 
 **[5. Subnets](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Subnets.md)**
+
+**[6. Checking Open Ports on Windows](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Checking-Open-Ports-on-Windows.md)**
