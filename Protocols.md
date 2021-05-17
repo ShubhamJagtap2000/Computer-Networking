@@ -1,4 +1,4 @@
-# Protocols
+# Understanding TCP/UDP and IP Protocols
 
 **These are the set of rules and regulations that devices follow to transfer and receive data over a wired or wireless medium**
 
