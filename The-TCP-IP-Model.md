@@ -31,6 +31,6 @@
 - First layer
 - It converts binary signals to electrical signals for data transfer
 - It checks itself for errors e.g. Wi-Fi Adapter
-- Prptocols used: Ethernet, 802.11, DSL
+- Protocols used: Ethernet, 802.11, DSL
 
 - After going through all the above layers sequentially, signals from physical layer of sender are received by physical layer(1st layer) of receiver side and processed again.
