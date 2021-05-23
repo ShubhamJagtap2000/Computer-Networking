@@ -1,1 +1,31 @@
 # Understanding the OSI Model
+
+- **OSI Model is the original model on which the TCP/IP Model was based upon**
+- **It has 7 layers**
+
+![image](https://user-images.githubusercontent.com/63872951/119271673-27f0cd00-bc20-11eb-908f-23d7ce07e07c.png)
+
+- **Data in OSI Model passes from layer 7 to layer 1 at sender's side and from layer 1 to layer 7 at receiver's side**
+
+### 1. Appication Layer
+- Provides an interactive interface for user to enter and view data
+- One can give inputs in the form of text, audio, img, files, etc.
+- Browser makes up the application layer
+
+### 2. Session layer
+- Initiates and creates sessions
+- Provides context to communicate netween devices
+
+### 3. Transport Layer
+- Establishes application-level connectivity
+- Attaches source and detination port numbers
+- Performs error control, makes 'checklists' so that it can be cross-checked at receiver-end to ensure that all data is transferred properly and not destroyed on the way in between
+- These 'checklists' are known as 'checksums'
+- Known as the 'heart' of the networking
+
+### 4. Network Layer
+- The source and destination IPs are attached here
+- Has network-level routing and pathing of packets for purpose of identification of devices and to decide virtual path that needs to be taken by data packets
+
+### 5. Data-Link Layer
+- 
