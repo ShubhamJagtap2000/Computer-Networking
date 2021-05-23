@@ -12,20 +12,24 @@
 - One can give inputs in the form of text, audio, img, files, etc.
 - Browser makes up the application layer
 
-### 2. Session layer
+### 2. Presentation Layer
+- Data is converted into computer-friendly format
+- So, this layer encodes input, compresses it and encrypts it if required
+
+### 3. Session layer
 - Initiates and creates sessions
 - Provides context to communicate netween devices
 
-### 3. Transport Layer
+### 4. Transport Layer
 - Establishes application-level connectivity
 - Attaches source and detination port numbers
 - Performs error control, makes 'checklists' so that it can be cross-checked at receiver-end to ensure that all data is transferred properly and not destroyed on the way in between
 - These 'checklists' are known as 'checksums'
 - Known as the 'heart' of the networking
 
-### 4. Network Layer
+### 5. Network Layer
 - The source and destination IPs are attached here
 - Has network-level routing and pathing of packets for purpose of identification of devices and to decide virtual path that needs to be taken by data packets
 
-### 5. Data-Link Layer
+### 6. Data-Link Layer
 - 
