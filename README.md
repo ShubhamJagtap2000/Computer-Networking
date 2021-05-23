@@ -1,5 +1,6 @@
 # Computer Networking
-**Computer Networking knowledge every ethical hacking and cybersecurity enthusiast should know**
+## **Computer Networking knowledge every ethical hacking and cybersecurity enthusiast should know**
+## It comprises of Computer Networking and Ethical Hacking Training I've taken from various platforms
 
 ## Introduction:
 
