@@ -22,8 +22,10 @@
 
 **[6. Checking Open Ports on Windows](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Checking-Open-Ports-on-Windows.md)**
 
-**[7. Understanding TCP/UDP and IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
+**[7. Understanding the TCP/UDP and IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/TCP-UDP-IP-Protocols.md)**
 
 **[8. The TCP/IP Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-TCP-IP-Model.md)**
 
 **[9. The OSI Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-OSI-Model.md)**
+
+**[10. IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
