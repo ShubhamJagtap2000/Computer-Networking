@@ -13,7 +13,7 @@
 - Browser makes up the application layer
 
 ### 2. Presentation Layer
-- Data is converted into computer-friendly format
+- Data is converted into computer-friendly format(binary)
 - So, this layer encodes input, compresses it and encrypts it if required
 
 ### 3. Session layer
