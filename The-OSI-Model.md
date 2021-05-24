@@ -32,4 +32,13 @@
 - Has network-level routing and pathing of packets for purpose of identification of devices and to decide virtual path that needs to be taken by data packets
 
 ### 6. Data-Link Layer
-- 
+- Attaches source and destination MAC Addresses, which are used to identify hardware information of a device
+- Calculates checksums for error checking of metadata that has been attached at all previous layers and also to manage data-flow
+
+### 7. Physicaal Layer
+- This is where the data is converted into hardware friendly signals, radio signals, light signals, or electric signals depending on hardware that's being used for transfer
+
+
+## Trick to remember all 7-layers in OSI Model:
+
+### "All People Seem To Need Data Processing"
