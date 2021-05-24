@@ -1,4 +1,4 @@
-# Proxy and VPN(Virtual Private Network)
+# Proxy 
 
 ### Proxy Server
 #### Device/Service which acts as intermediate gateway by which one device can interact with other ones is called as a Proxy
