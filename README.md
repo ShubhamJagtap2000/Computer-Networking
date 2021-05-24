@@ -31,4 +31,4 @@
 
 **[10. The OSI Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-OSI-Model.md)**
 
-**[11. Proxy and VPN](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
+**[11. Proxy and VPN](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Proxy-and-VPN.md)**
