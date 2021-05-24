@@ -33,4 +33,6 @@
 
 **[11. Proxy](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Proxy.md)**
 
+**[12. VPN](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/VPN.md)**
+
 
