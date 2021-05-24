@@ -21,12 +21,14 @@
 
 **[5. Subnets](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Subnets.md)**
 
-**[6. Checking Open Ports on Windows](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Checking-Open-Ports-on-Windows.md)**
+**[6. IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
 
-**[7. Understanding the TCP/UDP and IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/TCP-UDP-IP-Protocols.md)**
+**[7. Checking Open Ports on Windows](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Checking-Open-Ports-on-Windows.md)**
 
-**[8. The TCP/IP Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-TCP-IP-Model.md)**
+**[8. Understanding the TCP/UDP and IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/TCP-UDP-IP-Protocols.md)**
 
-**[9. The OSI Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-OSI-Model.md)**
+**[9. The TCP/IP Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-TCP-IP-Model.md)**
 
-**[10. IP Protocols](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
+**[10. The OSI Model](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/The-OSI-Model.md)**
+
+**[11. Proxy and VPN](https://github.com/ShubhamJagtap2000/Computer-Networking/blob/main/Protocols.md)**
