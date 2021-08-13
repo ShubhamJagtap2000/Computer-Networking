@@ -35,7 +35,7 @@
 - Attaches source and destination MAC Addresses, which are used to identify hardware information of a device
 - Calculates checksums for error checking of metadata that has been attached at all previous layers and also to manage data-flow
 
-### 7. Physicaal Layer
+### 7. Physical Layer
 - This is where the data is converted into hardware friendly signals, radio signals, light signals, or electric signals depending on hardware that's being used for transfer
 
 
