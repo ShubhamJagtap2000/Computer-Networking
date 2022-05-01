@@ -1,13 +1,16 @@
 # Computer Networking
-## **Computer Networking knowledge every ethical hacking and cybersecurity enthusiast should know**
-## It comprises of Computer Networking and Ethical Hacking Training I've taken from various platforms
+
+## **Computer Networking is very important aspect in securing the networks, systems and directly or indirectly, securing the organization. Hence, the knowledge of networking is must for every cybersecurity enthusiast.**
+
+## It comprises of Computer Networking and Ethical Hacking Training I've taken from various platforms. 
 
 ## Introduction:
 
+## Why we must learn Computer Networking?
 - To hack a device, one should know how computer devices interact with each other.
-- Two or more devices connected with each other form a computer network.
+- Two or more devices are connected with each other to form a computer network.
 - Devices are connected to each other for purpose of file sharing, resource sharing, communication, etc.
-- Devices in a computer network(communicating or network devices) are called **'nodes'**
+- Devices in a computer network(communicating or network devices) are called **'nodes'**.
 
 ## Topics Covered:
 
