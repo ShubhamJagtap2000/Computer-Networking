@@ -12,7 +12,7 @@
 - More Cost
 - Hard to Manage
 - e.g. CCTVs of the city
-- Used for Large area. Several Biuldings, Cities, etc.
+- Used for Large area. Several Buildings, Cities, etc.
 
 **3. WAN:** **W**ide **A**rea **N**etwork
 - Higher Cost
@@ -23,7 +23,9 @@
 ## On basis of Accessibility
 
 **1. Internal Network:** Isolated from Public Access
-
-**1. External Network:** Public Network. e.g. Internet
+E.g.: Mainly, large organizations like various Ministries, Research and Technical Organizations like DRDO, ISRO, NTRO, etc use the intranet to share their files inside the organization.
 
 - Keeping critical servers in an internal network keeps them safe from public attacks.
+
+**1. External Network:** Public Network. e.g. Internet
+- Well, we all know the **Internet**. 
